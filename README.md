@@ -10,6 +10,7 @@
 1. Open your browser
 2. Load the extension
 3. Open a new tab
+4. Have fun :)
 
 ## Gallery
 
