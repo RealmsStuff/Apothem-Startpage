@@ -15,11 +15,11 @@
 
 ### Rosé Pine
 
-<img width="512" alt= "Rosé Pine" src="https://github.com/user-attachments/assets/9edebda8-546d-4b30-878d-d39a753dae93" />
+<img width="1024" alt= "Rosé Pine" src="https://github.com/user-attachments/assets/9edebda8-546d-4b30-878d-d39a753dae93" />
 
 ### Rosé Pine Dawn
 
-<img width="512" alt="Rosé Pine Dawn" src="https://github.com/user-attachments/assets/ea8e6962-2845-48b3-9d59-ed630400e126" />
+<img width="1024" alt="Rosé Pine Dawn" src="https://github.com/user-attachments/assets/ea8e6962-2845-48b3-9d59-ed630400e126" />
 
 
 ## Thanks to
