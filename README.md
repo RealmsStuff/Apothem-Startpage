@@ -8,9 +8,9 @@
 ## Usage
 
 1. Open your browser
-2. Load the extension
-3. Open a new tab
-4. Have fun :)
+3. [Load the extension](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) from [Releases](https://github.com/RealmsStuff/Apothem-Startpage/releases/) into any Chromium-based Browser
+4. Open a new tab
+5. Have fun :)
 
 ## Gallery
 
